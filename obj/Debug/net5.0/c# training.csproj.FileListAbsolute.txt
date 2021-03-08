@@ -1,0 +1,16 @@
+C:\Users\houss\OneDrive\Bureau\c# training\bin\Debug\net5.0\c# training.exe
+C:\Users\houss\OneDrive\Bureau\c# training\bin\Debug\net5.0\c# training.deps.json
+C:\Users\houss\OneDrive\Bureau\c# training\bin\Debug\net5.0\c# training.runtimeconfig.json
+C:\Users\houss\OneDrive\Bureau\c# training\bin\Debug\net5.0\c# training.runtimeconfig.dev.json
+C:\Users\houss\OneDrive\Bureau\c# training\bin\Debug\net5.0\c# training.dll
+C:\Users\houss\OneDrive\Bureau\c# training\bin\Debug\net5.0\ref\c# training.dll
+C:\Users\houss\OneDrive\Bureau\c# training\bin\Debug\net5.0\c# training.pdb
+C:\Users\houss\OneDrive\Bureau\c# training\obj\Debug\net5.0\c# training.csprojAssemblyReference.cache
+C:\Users\houss\OneDrive\Bureau\c# training\obj\Debug\net5.0\c# training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houss\OneDrive\Bureau\c# training\obj\Debug\net5.0\c# training.AssemblyInfoInputs.cache
+C:\Users\houss\OneDrive\Bureau\c# training\obj\Debug\net5.0\c# training.AssemblyInfo.cs
+C:\Users\houss\OneDrive\Bureau\c# training\obj\Debug\net5.0\c# training.csproj.CoreCompileInputs.cache
+C:\Users\houss\OneDrive\Bureau\c# training\obj\Debug\net5.0\c# training.dll
+C:\Users\houss\OneDrive\Bureau\c# training\obj\Debug\net5.0\ref\c# training.dll
+C:\Users\houss\OneDrive\Bureau\c# training\obj\Debug\net5.0\c# training.pdb
+C:\Users\houss\OneDrive\Bureau\c# training\obj\Debug\net5.0\c# training.genruntimeconfig.cache
